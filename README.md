@@ -1,18 +1,17 @@
-<h3>👩‍💻Younngg</h3>
+<div align=center>
+<h2>👩‍💻Younngg</h2>
 <strong>email:</strong> 8533283@naver.com
+
+<strong>blog:</strong>
+https://velog.io/@younngg1012
 
 ---
 
-<h3>💻Skill</h3>
+<h2>💻Skill</h2>
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=fff)
-![postcss](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=PostCSS&logoColor=fff)
-![styledcomponents](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledComponents&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=fff)
-![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=fff)
-![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=fff)
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
+</div>
 
 ---
