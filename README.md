@@ -5,7 +5,8 @@
 <strong>blog:</strong>
 https://velog.io/@younngg1012
 
----
+<br>
+<br>
 
 <h2>💻Skill</h2>
 
@@ -13,5 +14,3 @@ https://velog.io/@younngg1012
 <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 </div>
-
----
