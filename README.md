@@ -1,9 +1,11 @@
 <div align=center>
 <h2>👩‍💻Younngg</h2>
+  
 <strong>email:</strong> 8533283@naver.com
-
-<strong>blog:</strong>
-https://velog.io/@younngg1012
+  
+<strong>blog:</strong> https://velog.io/@younngg1012
+  
+<strong>resume:</strong> https://my.surfit.io/w/1501176912
 
 <br>
 <br>
