@@ -5,7 +5,7 @@
   
 <strong>blog:</strong> https://velog.io/@younngg1012
   
-<strong>resume:</strong> [resume](https://reinvented-morocco-9d1.notion.site/Frontend-1db54c850ac242009113600c50b7c0d9)
+<strong>resume:</strong> http://bit.ly/40wN7kq
 
 <br>
 <br>
