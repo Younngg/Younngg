@@ -5,8 +5,6 @@
   
 <strong>blog:</strong> https://velog.io/@younngg1012
   
-<strong>resume:</strong> http://bit.ly/40wN7kq
-
 <br>
 <br>
 
